@@ -1,92 +1,22 @@
 {
   "projects": [
     {
-      "name": "teste",
-      "budget": "42455",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "name": "name",
-      "budget": "444444",
+      "name": "Anderson",
+      "budget": "1800.00",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
-      "id": 5
-    },
-    {
-      "name": "Projeto teste message",
-      "budget": "20000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 6
-    },
-    {
-      "name": "teste",
-      "budget": "2222",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 7
-    },
-    {
-      "name": "tess",
-      "budget": "2",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 8
-    },
-    {
-      "name": "tess",
-      "budget": "2222",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 9
-    },
-    {
-      "name": "Projeeto novo",
-      "budget": "855",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 10
-    },
-    {
-      "name": "teste",
-      "budget": "333",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 11
+      "cost": 500,
+      "services": [
+        {
+          "name": "Programador JR",
+          "cost": "500.00",
+          "description": "Top",
+          "id": "e7b98815-39d0-447e-b6c7-bafcf20f4edc"
+        }
+      ],
+      "id": 12
     }
   ],
   "categories": [
