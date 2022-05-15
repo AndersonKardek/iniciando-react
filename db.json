@@ -2,28 +2,6 @@
   "projects": [
     {
       "name": "teste",
-      "budget": "45666",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "teste",
-      "budget": "45666",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "name": "teste",
       "budget": "42455",
       "category": {
         "id": "3",
@@ -32,17 +10,6 @@
       "cost": 0,
       "services": [],
       "id": 3
-    },
-    {
-      "name": "tess",
-      "budget": "2222",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
     },
     {
       "name": "name",
@@ -109,6 +76,17 @@
       "cost": 0,
       "services": [],
       "id": 10
+    },
+    {
+      "name": "teste",
+      "budget": "333",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 11
     }
   ],
   "categories": [
